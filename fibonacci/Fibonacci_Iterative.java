@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Fibonacci_Iterative 
 {
-	public static int fib(int n)
+	public static long fib(int n)
 	{
 		if(n<=1)
 		{

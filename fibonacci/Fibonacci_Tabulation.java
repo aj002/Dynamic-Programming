@@ -6,7 +6,7 @@ public class Fibonacci_Tabulation {
 	
 	public static long fib(int n)
 	{
-		int f[] = new int[n+1];
+		int f[] = new int[n+2];
 		f[0]=0;
 		f[1]=1;
 		for(int i=2;i<=n;i++)
